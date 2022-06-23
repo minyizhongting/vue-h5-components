@@ -1,2 +1,3 @@
-# vue-h5-components
-vue components demo, use rollup
+# 公共组件
+
+1. 用rollup打包，支持按需引入
